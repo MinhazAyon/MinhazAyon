@@ -3,9 +3,8 @@
 
 🌟 Featured Projects
 
-[Project Name 1]: A [brief description, e.g., full-stack web app] built with [technologies]. [Link to repo]
-[Project Name 2]: A [brief description, e.g., CLI tool] showcasing [specific skill]. [Link to repo]
-[Project Name 3]: A [brief description, e.g., ML model] demonstrating [specific skill]. [Link to repo]
+[Used Car Price Prediction]: A used car price predictor with machine learning. [https://github.com/MinhazAyon/used_car_price_prediction]
+[Power BI and Tableau Visualization]: A practice showcasing the Power BI and Tableau skills. [https://github.com/MinhazAyon/PowerBI-and-Tableau-Visualization]
 
 📫 Let's Connect!
 I'm actively looking for opportunities to join a dynamic team. If you're hiring or want to collaborate, reach out!
