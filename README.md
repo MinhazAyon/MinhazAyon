@@ -8,4 +8,3 @@
 
 📫 Let's Connect!
 I'm actively looking for opportunities to join a dynamic team. If you're hiring or want to collaborate, reach out!
-🛠 Fun Fact: I'm a [fun fact about you, e.g., coffee enthusiast, puzzle solver, or open-source advocate]!
